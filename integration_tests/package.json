@@ -8,7 +8,7 @@
     "cypress:open": "cypress open"
   },
   "dependencies": {
-    "cypress": "^6.1.0",
+    "cypress": "^13.13.0",
     "cypress-file-upload": "^4.1.1",
     "route-parser": "^0.0.5"
   }
